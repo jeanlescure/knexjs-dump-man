@@ -25,5 +25,8 @@
   "dependencies": {
     "knex": "^0.12.9",
     "knex-schemer": "^0.1.17"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
   }
 }
