@@ -1,0 +1,29 @@
+{
+  "name": "knexjs-dump-man",
+  "version": "0.0.1",
+  "description": "Dump manager for KnexJS. Making it easy to migrate databases agnostically.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanlescure/knexjs-dump-man.git"
+  },
+  "keywords": [
+    "knex",
+    "knexjs",
+    "dump",
+    "manager"
+  ],
+  "author": "Jean M. Lescure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanlescure/knexjs-dump-man/issues"
+  },
+  "homepage": "https://github.com/jeanlescure/knexjs-dump-man#readme",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "knex-schemer": "^0.1.17"
+  }
+}
