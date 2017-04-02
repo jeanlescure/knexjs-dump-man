@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/jeanlescure/knexjs-dump-man#readme",
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "jsonfile": "^2.4.0",
     "knex": "^0.12.9",
-    "knex-schemer": "^0.1.17"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "jasmine": "^2.5.3",

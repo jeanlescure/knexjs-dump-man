@@ -1,6 +1,6 @@
 module.exports = {
     client: 'sqlite3',
     connection: {
-      database: './test-load.db',
+      filename: './spec/fixtures/dump/test-load.db',
     }
 };
