@@ -27,6 +27,7 @@
     "knex-schemer": "^0.1.17"
   },
   "devDependencies": {
-    "jasmine": "^2.5.3"
+    "jasmine": "^2.5.3",
+    "sqlite3": "^3.1.8"
   }
 }
