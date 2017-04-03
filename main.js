@@ -23,7 +23,7 @@ loadingSpinner.setSequence(
 );
  
 program
-  .version('0.9.1')
+  .version('0.9.3')
   .option('-d, --dump [json-file-name]', 'Generate dump file with name [json-file-name]')
   .option('-t, --tables <tables-list>', 'Use with \'-d\' to list which tables you want to dump', list)
   .option('-l, --load [json-file-name]', 'Load dump file with name [json-file-name] into database')
