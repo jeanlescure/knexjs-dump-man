@@ -2,17 +2,23 @@
 
 Dump manager for KnexJS. Making it easy to migrate databases agnostically using NodeJS.
 
+# Installing
+
+This is meant to be used as a global module:
+
+`$ npm install -g knexjs-dump-man`
+
 # Dumping a database
 
 In a folder containing a `knexfile.js` run the following: 
 
-`knexdm --dump mydump.json --tables first_table,second_table,[...]`
+`$ knexdm --dump mydump.json --tables first_table,second_table,[...]`
 
 # Loading a dump file into database
 
 In a folder containing a `knexfile.js` run the following: 
 
-`knexdm --load mydump.json`
+`$ knexdm --load mydump.json`
 
 # Caveats
 

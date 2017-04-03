@@ -1,6 +1,6 @@
 {
   "name": "knexjs-dump-man",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Dump manager for KnexJS. Making it easy to migrate databases agnostically.",
   "main": "main.js",
   "bin": {
