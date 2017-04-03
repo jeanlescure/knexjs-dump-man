@@ -38,4 +38,4 @@ Before openning an issue, please be sure to checkout the [Field Notes](https://g
 
 - Add a way to **dump** typed table schemas
 - Add a way to **load** typed table schemas
-- Add better error catching
+- Implement better error catching
