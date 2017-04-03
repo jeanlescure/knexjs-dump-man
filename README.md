@@ -6,7 +6,7 @@ Dump manager for KnexJS. Making it easy to migrate databases agnostically using 
 
 In a folder containing a `knexfile.js` run the following: 
 
-`knexdm --dump mydump.json first_table second_table [...]`
+`knexdm --dump mydump.json --tables first_table,second_table,[...]`
 
 # Loading a dump file into database
 
@@ -26,3 +26,4 @@ Be sure to check out the tests provided for loading a dump (`spec/load-spec.js`)
 
 - Add a way to **dump** typed table schemas
 - Add a way to **load** typed table schemas
+- Add better error catching
