@@ -30,6 +30,10 @@ In order to be able to load a dump you need to have your tables already created 
 
 Be sure to check out the tests provided for loading a dump (`spec/load-spec.js`) for further details.
 
+# Issues & Bug Tracking
+
+Before openning an issue, please be sure to checkout the [Field Notes](https://github.com/jeanlescure/knexjs-dump-man/wiki) for common pitfalls you may encounter in using this tool.
+
 # TODO
 
 - Add a way to **dump** typed table schemas
