@@ -1,5 +1,7 @@
 # Knexjs Dump Manager (knexdm)
 
+![Knexjs Dump Manager (knexdm) Logo](https://raw.githubusercontent.com/jeanlescure/knexjs-dump-man/master/misc/knexjs-dump-manager-logo.png)
+
 Dump manager for KnexJS. Making it easy to migrate databases agnostically using NodeJS.
 
 # Installing
